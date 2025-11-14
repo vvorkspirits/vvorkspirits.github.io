@@ -1,14 +1,16 @@
-# vvorkspirits.github.io
-
 ## ABOUT ME
+
 ## WORK EXPERIENCE
+
 ## ACTIVITIES & INTERESTS
+
 ## PROJECTS
+
 ## SKILLS
+
 ## EDUCATIONS
+
 ## LANGUAGES
-## h2 Heading
-### h3 Heading
 
 
 ## Horizontal Rules
