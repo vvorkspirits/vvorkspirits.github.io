@@ -1,47 +1,12 @@
-## ABOUT ME
+# vvorkspirits.github.io
 
-## WORK EXPERIENCE
-
-## ACTIVITIES & INTERESTS
-
-## PROJECTS
-
-## SKILLS
-
-## EDUCATIONS
-
-## LANGUAGES
-
-
-## Horizontal Rules
-
-___
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-## Blockquotes
-
-
+## About Me
+[LinkedIn](https://www.linkedin.com/ezellmatt/)
+   
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 
-
-## Lists
-
-Unordered
 
 + Create a list by starting a line with `+`, `-`, or `*`
 + Sub-lists are made by indenting 2 spaces:
@@ -51,11 +16,19 @@ Unordered
     - Nulla volutpat aliquam velit
 + Very easy!
 
-Ordered
+## Projects
+## Skills
+## Languages
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+
+
+
+
 
 ## Code
 
@@ -85,31 +58,7 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+<img width="474" height="413" alt="image" src="https://github.com/user-attachments/assets/88319752-cb01-49d4-a2a3-7657a3bc8fa8" />
 
 
-## Links
 
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-
-## The End!
