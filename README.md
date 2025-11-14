@@ -1,5 +1,13 @@
 # vvorkspirits.github.io
 
+ABOUT ME,
+WORK EXPERIENCE,
+ACTIVITIES,
+PROJECTS,
+SKILLS,
+EDUCATIONS,
+LANGUAGES
+
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
